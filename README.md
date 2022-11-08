@@ -1,7 +1,7 @@
 Hola muy buen dia
 
 
-Le habla Daniel Fernando Sosa Suárez, Tecnólogo en análisis y desarrollo de sistemas, como fue requerido en la prueba técnica de PHP se realizó el proyecto del inventario en Laravel framework de PHP (ya que se dio el paso para poder usarlos). Para la descarga y ejecución del proyecto, debe asegurarse de que su máquina local tenga PHP y Composer instalados y contar con phpMyAdmin para el manejo de bases de datos
+Le habla Daniel Fernando Sosa Suárez, Tecnólogo en análisis y desarrollo de sistemas, como fue requerido en la prueba técnica de PHP se realizó el proyecto del inventario en Laravel framework de PHP (ya que se dio el paso para poder usarlos). Para la descarga y ejecución del proyecto, debe asegurarse de que su máquina local tenga PHP 8.1 o superior y Composer instalados y contar con phpMyAdmin para el manejo de bases de datos
 
 como primer paso seria acceder al repositorio y descargar el proyecto en el siguiente URL https://github.com/danielsosa117/cafeteria_konecta
 
